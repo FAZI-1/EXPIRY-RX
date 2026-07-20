@@ -1,0 +1,11 @@
+{
+  "name": "ExpiryRx",
+  "short_name": "ExpiryRx",
+  "description": "High-Cost Medication Expiry Intelligence",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0f766e",
+  "lang": "en",
+  "dir": "ltr"
+}
